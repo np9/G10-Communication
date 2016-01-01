@@ -11,6 +11,9 @@
 - Présentation(s) Power Point de l’application (pour des publics différents: communautés d’agglomérations, futurs étudiants de la formation, et pourquoi pas jurys de concours Open Data).
 - Tout autre support de communication jugé utile.
 
+- Gestion de la communication Client (Taxi Sid) / groupes (questions techniques, etc.)
+
+
 ## À disposition
 
 
